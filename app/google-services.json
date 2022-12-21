@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823454404578",
+    "firebase_url": "https://sintomapp-def44-default-rtdb.firebaseio.com",
+    "project_id": "sintomapp-def44",
+    "storage_bucket": "sintomapp-def44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823454404578:android:ba6e0b1993ade19dd073bb",
+        "android_client_info": {
+          "package_name": "com.example.exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823454404578-sbk2kv48o02ntc61n57ut0a2vs5rtvf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exercise",
+            "certificate_hash": "fc29186193bcc347305f06c29f18c0fa440eb13b"
+          }
+        },
+        {
+          "client_id": "823454404578-bfkstac6br5t2dnrnft0hkrn15qg5qf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmkF8GdyOu7qcbYmA_v_BMcD4jEGcwoVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823454404578-bfkstac6br5t2dnrnft0hkrn15qg5qf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
